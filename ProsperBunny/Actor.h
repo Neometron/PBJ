@@ -82,7 +82,7 @@ namespace HBS_PB
 			float                             tempIncrease;
 			float                             yRotate;
 			float                             scaleDecrease;
-
+			
 			HBS::Font*        font;
 			float             dtTimeElapsed;
 			float             jumpY;
