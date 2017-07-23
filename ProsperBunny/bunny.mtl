@@ -1,0 +1,23 @@
+# Blender MTL File: 'Bunny.blend'
+# Material Count: 2
+
+newmtl Material.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.373684 0.373684 0.373684
+Ke 0.216000 0.216000 0.216000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd  C:\\Users\\Marcus\\Desktop\\EyeRight.png
+
+newmtl Material.005
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.459676 0.429725
+Ks 0.039130 0.039130 0.039130
+Ke 0.216000 0.155141 0.145032
+Ni 1.000000
+d 1.000000
+illum 2
