@@ -354,7 +354,7 @@ void Actor::performAction(Landscape& ls, float dt)
 				pfIndex = 0;
 
 			}
-		}
+		}//
 	}
 
 	if (currentAction == EXAMINE_SURROUNDINGS)
